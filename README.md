@@ -1,2 +1,12 @@
 # Mudassir-Coding.github.io
-my first respositry 
+my first respositry
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hello hello </title>
+  </head>
+  <body>
+    hahahaha
+  </body>
+  
+</html>
